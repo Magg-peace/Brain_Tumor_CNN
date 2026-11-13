@@ -57,10 +57,14 @@ The project follows a modular workflow consisting of data preparation, classific
 
 ### Overall Workflow
 
-```mermaid
-<img width="555" height="285" alt="image" src="https://github.com/user-attachments/assets/cd8a1c6f-0390-494c-bc65-371b39c267c7" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/2bcff5f4-6485-4cea-bea3-4a3e47348188"
+    width="750"
+    alt="Overall Workflow of Brain Tumor Prediction Using Deep Learning"
+  />
+</p>
 
-```
 
 ### Module 1: Brain Tumor Classification
 
